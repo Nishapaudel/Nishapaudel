@@ -2,7 +2,7 @@
 
 I am a PhD student at RMIT University,  Australia. My research topic is Bioinformatic analysis of tertiary phase glia in preterm brain injury. I strongly support data reproducibility, open science, and diversity. 
 I'm looking to learn more on neuroscience and data analysis.
-I have a little bit of programming knowlege on Python, R and Bash and I mostly use the libraries for analytical work ( there are so many awesome libraries).  
+I use on Python, R and Bash to answer biological questions.  
 
 Topic areas of interest:
 
