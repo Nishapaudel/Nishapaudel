@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a Master by research student at RMIT University,  Australia. My research topic is Bioinformatic analysis of tertiary phase glia in inflammation mediated brain injury in mouse model. I strongly support data reproducibility, open science, and diversity. 
+I am a PhD student at RMIT University,  Australia. My research topic is Bioinformatic analysis of tertiary phase glia in inflammation mediated brain injury in mouse model. I strongly support data reproducibility, open science, and diversity. 
 I'm looking to learn more on neuroscience and data analysis.
 I use on Python, R and Bash to answer biological questions.  
 
