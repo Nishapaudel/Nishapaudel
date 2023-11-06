@@ -1,7 +1,7 @@
 ## Hi 👋
 
 I am a bioinformatician, based in Australia. I strongly support data reproducibility, open science, and diversity. 
-I'm looking to learn more on neuroscience and data analysis.
+I'm looking to learn more on cancer research and neuroscience and data analysis.
 I use on Python, R and Bash to answer biological questions.  
 
 Topic areas of interest:
@@ -9,6 +9,13 @@ Topic areas of interest:
 * Transcriptome analysis
 
 * Enrichment analysis
+  
+* NGS data analysis
+  
+* HPC
+  
+* Machine learning
+  
 
 
 List of scientific publications: [Google Scholar](https://scholar.google.com.au/citations?view_op=list_works&hl=en&user=uCh68esAAAAJ&gmla=AJsN-F5iA9Vr54Bc6YqJKNabXDhXuEN3kZbiCzofnfyofx68qet-SzKOjYeluwltc6rKLA4U067GpD8dhk6kHYyi5m2uEv5NaxDB7U8OgNr0_dAJj505CHYd2QES6dP9xejHm2Tjuk0S) and [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-8379-1079)
