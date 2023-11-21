@@ -6,8 +6,6 @@ I use on Python, R and Bash to answer biological questions.
 
 Topic areas of interest:
 
-* Transcriptome analysis
-
 * Enrichment analysis
   
 * NGS data analysis
