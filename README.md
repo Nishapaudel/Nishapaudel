@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a bioinformatician, based in Australia. I strongly support data reproducibility, open science, and diversity. 
+I am a bioinformatician, based in Australia.
 I'm looking to learn more on cancer research, neuroscience, precison medicine and data analysis.
 I use on Python, R and Bash to answer biological questions.  
 
