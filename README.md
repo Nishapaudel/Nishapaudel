@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a bioinformatician with a strong inclination for continuous learning and the ability to adeptly navigate dynamic environments. I have showcased proficiency in both biological laboratory techniques and computational skills. My professional history reflects efficient collaboration in establishing strong and enduring relationships with researchers, academics, and industry professionals.
+I am a bioinformatician with a strong inclination for continuous learning and the ability to adeptly navigate dynamic environments. I have showcased competency in both biological laboratory techniques and computational skills. My professional history reflects efficient collaboration in establishing strong relationships with researchers, academics, and industry professionals.
 I'm looking to learn more on cancer research, neuroscience, precison medicine and data analysis.
 I use on Python, R and Bash to answer biological puzzles.  
 
