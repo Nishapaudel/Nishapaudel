@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a bioinformatician with a strong commitment to continuous learning and adaptability in dynamic environments. Proficient in R, Python, HTML and Bash languages, I apply computational approaches to solve biological challenges, particularly in genomic and transcriptomic data analysis. My expertise bridges biological laboratory techniques and computational skills, enabling me to extract meaningful insights from complex datasets.
+I am a bioinformatician with a strong commitment to continuous learning and adaptability in dynamic environments. Proficient in R, Python, and Bash scripting, I apply computational approaches to solve biological problems, particularly in genomic and transcriptomic data analysis. My expertise bridges biological laboratory techniques and computational skills, enabling me to extract meaningful insights from complex datasets.
 
 Topic areas of interest:
 
