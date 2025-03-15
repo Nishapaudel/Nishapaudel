@@ -1,18 +1,16 @@
 ## Hi 👋
 
-I am a bioinformatician with a strong inclination for continuous learning and the ability to adeptly navigate dynamic environments. I have showcased competency in both biological laboratory techniques and computational skills. My professional history reflects efficient collaboration in establishing strong relationships with researchers, academics, and industry professionals.
-I'm looking to learn more on cancer research, neuroscience, precison medicine and data analysis.
-I use on Python, R and Bash to answer biological puzzles.  
+I am a bioinformatician with a strong commitment to continuous learning and adaptability in dynamic environments. Proficient in R, Python, HTML and Bash languages, I apply computational approaches to solve biological challenges, particularly in genomic and transcriptomic data analysis. My expertise bridges biological laboratory techniques and computational skills, enabling me to extract meaningful insights from complex datasets.
 
 Topic areas of interest:
 
-* Enrichment analysis
+* Population genetics study (evolution, spatial and temporal mapping, phylogenetic tree)
   
-* NGS data analysis
+* RNA sequencing studies (Bulk and single cell RNA sequqning, enrichment and cell signelling pathway analysis)
   
-* HPC
+* Precison medicine 
   
-* Machine learning
+* Machine learning (Prediction and Clustering algorthms)
   
 
 
